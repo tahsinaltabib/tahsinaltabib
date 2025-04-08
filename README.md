@@ -45,11 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-###
-
-<h3 align="left">☕ Connect with me!</h3>
-
-###
+## ☕ Connect with me!
 
 <div align="left">
   <a href="https://www.facebook.com/tahsinaltabib.18" target="blank">
@@ -68,8 +64,6 @@
 
 ## 📧 for contact with me! 
 ✅  ► tahsintabib408@gmail.com
-
-###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinaltabib&show_icons=true&locale=en&layout=compact" alt="tahsinaltabib" /></p>
 
