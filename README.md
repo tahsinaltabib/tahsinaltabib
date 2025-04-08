@@ -82,6 +82,10 @@
 
 ###
 
+###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinaltabib&layout=compact)
+###
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabib18&show_icons=true&locale=en&layout=compact" alt="tabib18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tabib18&show_icons=true&locale=en" alt="tabib18" /></p>
