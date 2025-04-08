@@ -1,4 +1,4 @@
-##<h1 align="left">Hi there 👋, I'm Tahsin Al Tabib</h1>
+## Hi there 👋, I'm Tahsin Al Tabib
 
 <div align="center">
   <img height="225" src="https://media.licdn.com/dms/image/v2/D5622AQFwIFgD9hU-_w/feedshare-shrink_800/B56ZWn9RAXHsAg-/0/1742279611040?e=1745452800&v=beta&t=O5n1dUM5imSLtCwJK8jMJo12SmylsxUTZy3ZxaO6AAg"  />
@@ -8,12 +8,12 @@
 
 <p align="left"> <a href="https://x.com/tahsinaltabib" target="blank"><img src="https://img.shields.io/twitter/follow/tahsinaltabib?logo=twitter&style=for-the-badge" alt="tahsinaltabib" /></a> </p>
 
-##<h3 align="left">🚀 About Me</h3>
+## 🚀 About Me
 
 
 <p align="left">I'm a passionate and results-driven Full Stack Developer in building and maintaining web applications, proficient in both front-end and back-end technologies, including JavaScript, React, Node.js, SQL. Seeking to leverage my expertise to contribute to innovative and impactful projects.</p>
 
-##<h3 align="left">👨‍💻 Skills & Experiance:</h3>
+## 👨‍💻 Skills & Experiance:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
