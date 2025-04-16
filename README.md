@@ -4,7 +4,7 @@
   <img height="225" src="https://media.licdn.com/dms/image/v2/D5622AQFwIFgD9hU-_w/feedshare-shrink_800/B56ZWn9RAXHsAg-/0/1742279611040?e=1745452800&v=beta&t=O5n1dUM5imSLtCwJK8jMJo12SmylsxUTZy3ZxaO6AAg"  />
 </div>
 
-<p align="left">👑 I'm Full Stack Developer.<br>🖊️ Love to write code.<br>🔭 I’m currently working on my own project.<br>🌱 I’m currently learning JavaScript<br>👯 I’m looking to collaborate on Github.<br>💬 Ask me about Full Stack Development.</p>
+<p align="left">👑 I'm Full Stack Developer.<br>🖊️ Love to write code.<br>🔭 I’m currently working on my own project.<br>🌱 I’m currently learning JavaScript.<br>👯 I’m looking to collaborate on Github.<br>💬 Ask me about Full Stack Development.</p>
 
 <p align="left"> <a href="https://x.com/tahsinaltabib" target="blank"><img src="https://img.shields.io/twitter/follow/tahsinaltabib?logo=twitter&style=for-the-badge" alt="tahsinaltabib" /></a> </p>
 
