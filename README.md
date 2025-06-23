@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Tahsin Al Tabib
 
 <div align="center">
-  <img height="225" src="https://media.licdn.com/dms/image/v2/D5622AQFwIFgD9hU-_w/feedshare-shrink_2048_1536/B56ZWn9RAXHsAo-/0/1742279611493?e=1748476800&v=beta&t=t_6c_QaHPtfB8r7yqCBsjr2PouDc0Ir7XDj9dmoMtQo"  />
+  <img height="225" src="https://media.licdn.com/dms/image/v2/D4E22AQFkNP4n8HRypw/feedshare-shrink_800/B4EZeajWITHgAg-/0/1750644647220?e=1753315200&v=beta&t=7FvLqjKm3Y5gKHlFvEd8_vWJvcGzI429vIViY8SR4Xs"  />
 </div>
 
 <p align="left">👑 I'm Full Stack Developer.<br>🖊️ Love to write code.<br>🔭 I’m currently working on my own project.<br>🌱 I’m currently learning JavaScript.<br>👯 I’m looking to collaborate on Github.<br>💬 Ask me about Full Stack Development.</p>
