@@ -1,33 +1,20 @@
-<h1 align="left">Hi there 👋, I'm Tahsin Al Tabib</h1>
-
-###
+## Hi there 👋, I'm Tahsin Al Tabib
 
 <div align="center">
   <img height="225" src="https://media.licdn.com/dms/image/v2/D5616AQHP0U9l8YvNOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZfJbYMXHoAY-/0/1751431088969?e=1756944000&v=beta&t=H151ViFNMX1ScX_JZbTzAMaHqvj04rcmMMda5jL8724"  />
 </div>
 
-###
+<p align="left">👑 I'm Full Stack Developer.<br>🖊️ Love to write code.<br>🔭 I’m currently working on my own project.<br>🌱 I’m currently learning JavaScript.<br>👯 I’m looking to collaborate on Github.<br>💬 Ask me about Full Stack Development.</p>
 
-<p align="left">👑 I'm Full Stack Developer.<br>🖊️ Love to write code.<br>🔭 I’m currently working on my own project.<br>🌱 I’m currently learning JavaScript<br>👯 I’m looking to collaborate on Github.<br>💬 Ask me about Full Stack Development.</p>
-
-###
 
 <p align="left"> <a href="https://x.com/tahsinaltabib" target="blank"><img src="https://img.shields.io/twitter/follow/tahsinaltabib?logo=twitter&style=for-the-badge" alt="tahsinaltabib" /></a> </p>
 
-###
-###
+## 🚀 About Me
 
-<h3 align="left">🚀 About Me</h3>
-
-###
 
 <p align="left">I'm a passionate and results-driven Full Stack Developer in building and maintaining web applications, proficient in both front-end and back-end technologies, including JavaScript, React, Node.js, SQL. Seeking to leverage my expertise to contribute to innovative and impactful projects.</p>
 
-###
-
-<h3 align="left">👨‍💻 Skills & Experiance:</h3>
-
-###
+## 👨‍💻 Skills & Experiance:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -59,11 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-###
-
-<h3 align="left">☕ Connect with me!</h3>
-
-###
+## ☕ Connect with me!
 
 <div align="left">
   <a href="https://www.facebook.com/tahsinaltabib.18" target="blank">
@@ -80,14 +63,11 @@
   </a>
 </div>
 
-###
+## 📧 contact with me! 
+✅  ► tahsinaltabib@gmail.com
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinaltabib&show_icons=true&locale=en&layout=compact" alt="tahsinaltabib" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahsinaltabib&show_icons=true&locale=en" alt="tahsinaltabib" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabib18&show_icons=true&locale=en&layout=compact" alt="tabib18" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tabib18&show_icons=true&locale=en" alt="tabib18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabib18&" alt="tabib18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsinaltabib&" alt="tahsinaltabib" /></p>
