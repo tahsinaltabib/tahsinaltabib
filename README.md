@@ -9,7 +9,6 @@
 <br clear="both">
 
 <h2 align="left">Hi 👋, I'm Tahsin Al Tabib</h2>
-###
 <br clear="both">
 <h5 align="left">I'm a passionate Full-stack developer in building and maintaining web applications.</h5>
 
