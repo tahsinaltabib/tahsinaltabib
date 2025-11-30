@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="225" src="https://media.licdn.com/dms/image/v2/D5616AQHP0U9l8YvNOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZfJbYMXHoAY-/0/1751431088969?e=1763596800&v=beta&t=rX36c-2Rls8RINzFEs7EVIz5RbSPhYf1CB0Ipp9ZseA"  />
+  <img height="225" src="https://media.licdn.com/dms/image/v2/D5616AQHP0U9l8YvNOQ/profile-displaybackgroundimage-shrink_350_1400/B56ZfJbYMXHoAY-/0/1751431088969?e=1766016000&v=beta&t=ys3JOZp6mQgHDi4dNPldFtlIWGbR0ru0XHp9haiBOH0"  />
 </div>
 
 ## Hi there 👋, I'm Tahsin Al Tabib
