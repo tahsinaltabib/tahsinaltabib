@@ -4,7 +4,12 @@
 
 ## Hi there 👋, I'm Tahsin Al Tabib
 
-<p align="left">👑 I'm Full Stack Developer.<br>🖊️ Love to write code.<br>🔭 I’m currently working on my own project.<br>🌱 I’m currently learning JavaScript.<br>👯 I’m looking to collaborate on Github.<br>💬 Ask me about Full Stack Development.</p>
+<p align="left">👑 Front-End Developer | React · Tailwind · JavaScript  
+✍️ Love building responsive web applications  
+🔭 Currently working on: My own React.js project  
+🌱 Currently learning: Node.js & Express.js  
+💬 Ask me about: React, Tailwind CSS, JavaScript  
+📫 Reach me: tahsinaltabib@gmail.com</p>
 
 
 <p align="left"> <a href="https://x.com/tahsinaltabib" target="blank"><img src="https://img.shields.io/twitter/follow/tahsinaltabib?logo=twitter&style=for-the-badge" alt="tahsinaltabib" /></a> </p>
