@@ -4,12 +4,7 @@
 
 ## Hi there 👋, I'm Tahsin Al Tabib
 
-<p align="left">- 👑 Front-End Developer | React · Tailwind · JavaScript
-- ✍️ Love building responsive web applications
-- 🔭 Currently working on: My own React.js project
-- 🌱 Currently learning: Node.js & Express.js
-- 💬 Ask me about: React, Tailwind CSS, JavaScript
-- 📫 Reach me: tahsinaltabib@gmail.com</p>
+<p align="left"> - 👑 Front-End Developer | React · Tailwind · JavaScript- ✍️ Love building responsive web applications- 🔭 Currently working on: My own React.js project- 🌱 Currently learning: Node.js & Express.js- 💬 Ask me about: React, Tailwind CSS, JavaScript- 📫 Reach me: tahsinaltabib@gmail.com</p>
 
 
 <p align="left"> <a href="https://x.com/tahsinaltabib" target="blank"><img src="https://img.shields.io/twitter/follow/tahsinaltabib?logo=twitter&style=for-the-badge" alt="tahsinaltabib" /></a> </p>
