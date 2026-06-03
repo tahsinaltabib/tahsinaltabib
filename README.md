@@ -51,8 +51,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahsinaltabib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="Tahsin's GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinaltabib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Tahsin's Top Languages"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tahsinaltabib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="Tahsin's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tahsinaltabib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Tahsin's Top Languages"/>
 
 </div>
 
