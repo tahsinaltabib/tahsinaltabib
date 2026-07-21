@@ -10,7 +10,7 @@
 
 ## Hi there 👋, I'm Tahsin Al Tabib
 
-<div align="left"><a href="https://www.facebook.com/tahsinaltabib.21" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a> <a href="https://www.instagram.com/tabu___21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a> <a href="https://x.com/tahsinaltabib" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a> <a href="https://www.linkedin.com/in/tahsin-al-tabib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a></div>
+<div align="left"><a href="https://www.facebook.com/tahsinaltabib.21" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a> <a href="https://www.instagram.com/tabu__18/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a> <a href="https://x.com/tahsinaltabib" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a> <a href="https://www.linkedin.com/in/tahsin-al-tabib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a></div>
 
 <br>
 
